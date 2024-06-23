@@ -1,0 +1,7 @@
+{
+  "name": "ionic-flicker-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
